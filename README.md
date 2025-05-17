@@ -13,6 +13,8 @@ A clean and lightweight simulation of a planet orbiting around the sun, built us
 - HTML
 - CSS
 - JavaScript
+## 📸 Preview
+👉 [**Click here to run**](https://eilya1387.github.io/The-planet/)
 
 ## 🚀 Getting Started
 
